@@ -1,14 +1,5 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 
-/**
- *
- * @author Kern Elder
- */
-public class BoundedCounter {
+public class BoundedCounter {   
     private int value;
     private int upperLimit;
     
@@ -47,19 +38,10 @@ public class BoundedCounter {
     
       
       
-}
+
       
      
           
           
-        
-    
-
-            
-        
-        
-        
-    
-    
-    
-
+        // copy here the class BoundedCounter from last weeks assignment 78 
+}
